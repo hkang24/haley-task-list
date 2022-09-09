@@ -18,7 +18,7 @@ Hi! It's Haley!
 
 https://spark-web-app-task-list.herokuapp.com/login
 
-If the link doesn't work for some reason, simply type in the terminal ----      npm install          then         npm start
+If the link doesn't work for some reason, simply type in the terminal ----      npm install    npm i react-router-dom   npm i firebase    npm i bootstrap-icons    npm install react-bootstrap bootstrap      then         npm start
 
 
 # Getting Started with Create React App
