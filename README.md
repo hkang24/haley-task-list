@@ -1,5 +1,8 @@
 Hi! It's Haley!
 
+
+Deployment Link: https://haley-task-list.herokuapp.com/login
+
 1. I made a web application for anyone who likes to keep a task list on their computer!
 
     Basically, when the user launches the application, they must register or login. Afterwards, they can input any task they need to do in the text space and click either the enter button or the plus sign at the end of the text box. When they click either the key or the button, the inputted task will display below the text box.
@@ -7,14 +10,7 @@ Hi! It's Haley!
     The user can also log out and log into a different account or register with a new email.
     Although I got the login and registeration features to work, the same tasks show up regardless of what email or 'account' the user logs in with, I think there's a problem with correctly filtering through each to do's ids.
 
-2. In terms of features I chose to include, I used
-    Components and Mobile Responsiveness (Frontend)
-    User Registration / Login / Logout Functionality, Integration with Database (Firebase), and Objects (Backend)
-    Deployed my site on netlify.app (Misc)
-
-3. I spent about 5 hours making this application. I learned about React, Bootstrap, Firebase, and such over the summer so some aspects of    the application (like connecting to firebase and figuring out user login and registration) was pulled from stuff I tried to code over the summer but a lot of time went into just reviewing and relearning some of the concepts. Also, around 1.5 hours was spent trying to figure out how to filter the to do's based on the what user logged in but I was no table to figure it out unfortunately.
-
-4. Deployment Link
+Deployment Link
 
 https://spark-web-app-task-list.herokuapp.com/login
 
