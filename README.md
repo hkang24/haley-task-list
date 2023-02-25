@@ -1,18 +1,11 @@
 Hi! It's Haley!
 
-
-Deployment Link: https://haley-task-list.herokuapp.com/login
-
 1. I made a web application for anyone who likes to keep a task list on their computer!
 
     Basically, when the user launches the application, they must register or login. Afterwards, they can input any task they need to do in the text space and click either the enter button or the plus sign at the end of the text box. When they click either the key or the button, the inputted task will display below the text box.
     If the user wants to mark a task as complete, they can click the toggle button below 'Complete' and if they don't want to see the task in the list anymore, they can click the trash can icon!
     The user can also log out and log into a different account or register with a new email.
     Although I got the login and registeration features to work, the same tasks show up regardless of what email or 'account' the user logs in with, I think there's a problem with correctly filtering through each to do's ids.
-
-Deployment Link
-
-https://spark-web-app-task-list.herokuapp.com/login
 
 If the link doesn't work for some reason, simply type in the terminal ----  
  npm install 
